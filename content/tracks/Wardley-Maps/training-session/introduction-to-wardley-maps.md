@@ -15,6 +15,7 @@ description  : New to Wardley maps? This session is for you
 organizers   :
     - Tony Richards
 participants :
+    - Ben Schofield
 ---
 
 
