@@ -20,6 +20,7 @@ outcome_summary:
 outcome_items:
 outcome_next_steps:
 participants :
+     - Ben Schofield
 ---
 
 If we're all so smart, and are working so hard, why does everything seem so awful?
