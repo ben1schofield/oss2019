@@ -10,6 +10,7 @@ organizers   :
     - Dinis Cruz
     - Tony Richards
 participants :
+    - Ben Schofield
 ---
 
 This will be an practical introducton to Wardley Mapping, taking participants through creating their own basic Wardley Maps, from User Needs, to creating Value-chains and applying Evolution to those Value-chains.
