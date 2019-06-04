@@ -5,9 +5,9 @@ technology   :
 topics       :                    # for example ["GDPR"]
 featured     :                    # review with summit team "yes"
 when_day     : Tue                # i.e.    Tue
-when_time    : Eve-1               # i.e.    AM-1
+when_time    : Ev-1               # i.e.    AM-1
 room_layout  :                    #
-room_id      : villa-2
+room_id      : sessions-2
 session_slack: 
 status       : draft              # draft, review-content, done
 description  :
@@ -21,7 +21,7 @@ participants :
 
 ## WHY
 
-How do we get the business people interested in (and putting a value on) security.  They need to understand how exposed they are, high profile celebrities and major company execs will have active cyber protection programmes.  How can we share basic good cyber hygiene good practice to help those outside the cyber community
+(How do we get the business people interested in (and putting a value on) security.  They need to understand how exposed they are, high profile celebrities and major company execs will have active cyber protection programmes.  How can we share basic good cyber hygiene good practice to help those outside the cyber community )
 
 ## What
 
